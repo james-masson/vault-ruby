@@ -5,7 +5,7 @@ require "vault/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "vault"
-  spec.version       = Vault::VERSION
+  spec.version       = Vault::VERSION + '-custom'
   spec.authors       = ["Seth Vargo"]
   spec.email         = ["sethvargo@gmail.com"]
   spec.licenses      = ["MPLv2"]
